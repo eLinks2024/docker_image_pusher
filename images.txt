@@ -7,3 +7,10 @@ xhofe/alist:latest
 jenkins/jenkins:2.472
 redis:7.4.1
 emqx:5.8.0
+mysql:8.0.40
+alpine:3.20.3
+nginx:1.27.2
+nginx:1.27.2-alpine
+apache/rocketmq:5.3.1
+tdengine/tdengine:3.3.3.0
+minio/minio:latest
