@@ -16,4 +16,7 @@
 # minio/minio:latest
 # nacos/nacos-server:v2.4.3
 # tdengine/tdengine:3.3.2.0
-apacherocketmq/rocketmq-dashboard:1.0.0
+# apacherocketmq/rocketmq-dashboard:1.0.0
+
+ubuntu:20.04
+openjdk:8u162
